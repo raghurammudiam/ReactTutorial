@@ -1,0 +1,4 @@
+npm
+
+1) npm init -y
+initialize, create package.json, manifest for the project, basic things needed for this project
